@@ -2,7 +2,7 @@
 
 ## Links
 
-Source Repository Link: git@github.com:georgiakennedy/may24-t1w6-terminalapp.git
+Source Repository Link: https://github.com/georgiakennedy/may24-t1w6-terminalapp
 
 Project Management Link: https://trello.com/invite/b/1MECdoKe/ATTI7d48bdc8eef9c415bf4f6e684f45392fADEAA72F/t1a3-survival-game
 
