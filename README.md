@@ -11,7 +11,15 @@ Project Management Link: https://trello.com/invite/b/1MECdoKe/ATTI7d48bdc8eef9c4
 Zombieland is a mini survival game set in a post-apocalyptic world. The goal for the user is to navigate their way to safety. The user will have a backpack with limited space where they can store a few items to help them along the way. They’ll be faced with a few different situations where they have to choose an object from their backpack to help them get out of the situation in one piece. If they fail the challenge, they’ll lose a “life”. The users will start with 2 lives, and if they lose both of them before they reach the end of the game, they lose. 
 
 ## Help Documentation
-Insert Here
+You will need to install the following python packages:
+
+Colored:
+
+pip3 install colored
+
+Emoji:
+
+pip3 install emoji
 
 ### Dependencies
 Note: This app requires Python 3 to be installed on your machine. To check if Python3 is installed on your machine, type the following into your terminal:
